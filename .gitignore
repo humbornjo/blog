@@ -30,3 +30,6 @@ pnpm-debug.log*
 /.noblog/
 /src/pages/posts/*.md
 /src/pages/posts/subpages/*.md
+
+# local tooling (never commit)
+scripts/
